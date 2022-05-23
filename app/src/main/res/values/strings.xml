@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Self</string>
+    <string name="title_text">Self . Gratitude . Journal</string>
+    <string name="grateful_text">What Are You Grateful For Today ?</string>
+    <string name="getStarted_text">GET STARTED</string>
+    <string name="hint_email_text">Email</string>
+    <string name="hint_password_text">Password</string>
+    <string name="login_text">LOGIN</string>
+    <string name="or_text">OR</string>
+    <string name="signup_text">CREATE ACCOUNT</string>
+    <string name="hint_confirm_password_text">Confirm password</string>
+    <string name="create_account_error_text">Error : Either password doesn\'t match or a fiels was empty !</string>
+    <string name="save_text">SAVE</string>
+    <string name="list_no_thoughts">Write a journal by clicking the + icon above</string>
+</resources>
